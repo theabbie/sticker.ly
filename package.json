@@ -1,0 +1,28 @@
+{
+  "name": "sticker.ly",
+  "version": "1.0.0",
+  "description": "Unofficial Sticker.ly API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'working'"
+  },
+  "funding": "https://theabbie.github.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theabbie/sticker.ly.git"
+  },
+  "keywords": [
+    "stickerly",
+    "theabbie"
+  ],
+  "author": "theabbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theabbie/sticker.ly/issues"
+  },
+  "homepage": "https://github.com/theabbie/sticker.ly#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "form-data": "^3.0.0"
+  }
+}
